@@ -1,0 +1,202 @@
+[
+    {
+        "id": "CIS 171",
+        "name": "Computer Programming I",
+        "hours": "3",
+        "description": "A study of the design of algorithms, pseudocode, data types, control structures, arrays, program testing, and text file processing using a high-level programming language.",
+        "prerequisite": "",
+        "semesteroffered": "Fall",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 172",
+        "name": "Computer Programming II",
+        "hours": "3",
+        "description": "A continuation of CIS 171. Emphasis is on object-oriented constructs and techniques, generics and use of common data structures supported by the language",
+        "prerequisite": "CIS 171",
+        "semesteroffered": "Spring",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 211",
+        "name": "Introduction to Web Design",
+        "hours": "3",
+        "description": "An interdisciplinary introduction to web design covering both technical and artistic aspects. The course will cover the current tools and technologies used for web design and development. Emphasis will also be given to the artistic principles relevant to good web design. Students will design, develop, and critique websites.",
+        "prerequisite": "",
+        "semesteroffered": "Spring",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 267",
+        "name": "Application Development I (W)",
+        "hours": "3",
+        "description": "Windows-based program development using visual languages, editors and programming tools. This course contains a significant writing component.",
+        "prerequisite": "",
+        "semesteroffered": "Fall",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 273",
+        "name": "Data Structures",
+        "hours": "3",
+        "description": "A continuation of CIS 172. A study of the use of data structures in the design and implementation of software. Topics may include linked lists, stacks, queues and trees, and their proper application. ",
+        "prerequisite": "CIS 172",
+        "semesteroffered": "Fall",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 324",
+        "name": "Database Systems",
+        "hours": "3",
+        "description": "A study of the major data models with emphasis on relational systems. Topics include database design, database implementation, database processing, and security. Project work will include creating and modifying databases using Structured Query Language (SQL) and Query By Example (QBE). Current commercial databases will also be studied.",
+        "prerequisite": "",
+        "semesteroffered": "Fall",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 345",
+        "name": "Computer Networks",
+        "hours": "3",
+        "description": "An overview of computer networking principles and practices. Topics include networking theory, layered protocols, Internet addressing, network topologies, network architectures, and network implementation.",
+        "prerequisite": "",
+        "semesteroffered": "Spring",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 367",
+        "name": "Application Development II",
+        "hours": "3",
+        "description": "Windows-based program development using visual languages, editors and programming tools. This course contains a significant writing component.",
+        "prerequisite": "",
+        "semesteroffered": "Fall",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 374",
+        "name": "Algorithms",
+        "hours": "3",
+        "description": "A continuation of topics introduced in CIS 273. Topics may include sorting and searching techniques, graphs, relative and hashed files, use of data structures as abstractions of problems, and algorithmic complexity (O-notation).",
+        "prerequisite": "CIS 273",
+        "semesteroffered": "Spring",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 460",
+        "name": "Operating Systems (W)",
+        "hours": "3",
+        "description": "Principles of design and operation of computer operating systems. Topics include processes, threads, memory management, scheduling, file systems, input and output, concurrency, and performance",
+        "prerequisite": "",
+        "semesteroffered": "Spring - Odd",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 474",
+        "name": "Artificial Intelligence",
+        "hours": "3",
+        "description": "A survey of and an introduction to various topics in artificial intelligence. Topics include expert systems, automatic problem-solving, natural language processing, uncertainty management, knowledge representation, and machine learning.",
+        "prerequisite": "",
+        "semesteroffered": "Fall - Even",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 491",
+        "name": "Advanced Topics in Computer Science (W)",
+        "hours": "3",
+        "description": "A capstone course for exploring advanced theoretical concepts and current issues in computer science. A major independent research project will be required. This course includes a significant writing component. prerequisite: Senior standing (90+ hours).",
+        "prerequisite": "",
+        "semesteroffered": "Spring",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "MAT 235",
+        "name": "Introductory Statistics",
+        "hours": "3",
+        "description": "An introduction to basic statistical techniques, including frequency distributions, averages, data analysis, samplings, tests of hypothesis, linear regression, chi-square tests, and related areas in probability theory. prerequisite: Two (2) years of high school algebra and required proficiency score of 21 or better on math portion of the ACT or proficiency score on the ACCUPLACER.",
+        "prerequisite": "",
+        "semesteroffered": "Spring, Fall",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "MAT 240",
+        "name": "Discrete Mathematics",
+        "hours": "3",
+        "description": "A study in the mathematics that deals with \"separated\" or discrete sets of objects rather than with continuous sets such as the real line. Topics include set theory, combinatorics, logic, introductory proof techniques, introduction to matrix algebra, relations and graphs, functions, recursion and recurrence relations, graphs, and data trees.",
+        "prerequisite": "",
+        "semesteroffered": "Spring",
+        "category": "CS",
+        "subcategory": "CS Core"
+    },
+    {
+        "id": "CIS 368",
+        "name": "Software Engineering (W)",
+        "hours": "3",
+        "description": "A study of software engineering from initial concept through design, development, testing, and maintenance of the product. Discussion covers software development life cycle models. Topics include quality, validation and verification, and human factors. This course includes a significant writing component.",
+        "prerequisite": "CIS 267",
+        "semesteroffered": "Fall - Odd",
+        "category": "CS",
+        "subcategory": "SD"
+    },
+    {
+        "id": "CIS 386",
+        "name": "Architecture and Assembly Language",
+        "hours": "3",
+        "description": "An introduction to the low-level architecture of modern computer systems. Architecture topics include registers, pipelining, data representation, input, and output. Information covered will be illustrated using assembly language.",
+        "prerequisite": "CIS 273",
+        "semesteroffered": "Fall - Even",
+        "category": "CS",
+        "subcategory": "SD"
+    },
+    {
+        "id": "CIS 444",
+        "name": "Parallel Programming",
+        "hours": "3",
+        "description": "An introduction to the fundamentals of parallel and distributed computation. Topics include parallel architectures, parallel algorithm design, and parallel programming techniques. Modern parallel architectures such as computer clusters and GPUs will be emphasized.",
+        "prerequisite": "CIS 374",
+        "semesteroffered": "Fall - Odd",
+        "category": "CS",
+        "subcategory": "SD"
+    },
+    {
+        "id": "CIS 470",
+        "name": "Programming Languages: Theory & Practice",
+        "hours": "3",
+        "description": "The principles of programming language design and implementation. Topics include formal language theory, language paradigms, and language evaluation. Students will write programs in several modern languages including non-imperative languages.",
+        "prerequisite": "CIS 273",
+        "semesteroffered": "Fall - Odd",
+        "category": "CS",
+        "subcategory": "SD"
+    },
+    {
+        "id": "MAT 223",
+        "name": "Analytics and Calculus II",
+        "hours": "4",
+        "description": "A continuation of MAT 122. Applications of the definite integral, techniques of integration, paratmetric equations, polar coordinates, and infinite sequences and series are the main topics of this course.",
+        "prerequisite": "MAT 122",
+        "semesteroffered": "Fall",
+        "category": "CS",
+        "subcategory": "SD"
+    },
+    {
+        "id": "PHS 212",
+        "name": "Physics for Science and Engineering II (W)",
+        "hours": "4",
+        "description": "A continuation of PHS 211 and a requirement of all pre-engineering, chemistry and biochemistry students. This course introduces students to thermodynamics, the kinetic theory of gases, electric fields and potential, capacitance, resistance, AC and DC circuits, magnetic fields, inductance, electromagnetic waves, light, optics, interference diffraction, and selected topics dealing with relativity, quantum mechanics, and nuclear physics. This course meets for three (3) hours of lecture and three (3) hours of laboratory each week. This course contains a significant writing component.",
+        "prerequisite": "PHS 211",
+        "semesteroffered": "Spring",
+        "category": "CS",
+        "subcategory": "SD"
+    }
+]
